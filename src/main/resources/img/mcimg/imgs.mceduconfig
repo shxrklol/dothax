@@ -1,4 +1,0 @@
-[CONFIG]
-SetImageShader=False
-ShaderDirPath=resourcePath.folder(img).subFolder(mcimg).subFolder(shaders)
-MinecraftEducationInGameImagesPath=this.parentDir
