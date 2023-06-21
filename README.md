@@ -11,7 +11,7 @@
  this is a newer / remade version of nuker++, the old mcedu chat client
  that got banned because outdated exploits
  
- made by shark#1213 and xrayy#0001
+ made by sharkzies (disc) and xrayy#0001
  
  ok thats it here
  
